@@ -1,3 +1,6 @@
 # Notion 
 
-A repo to store the HTML embeds or snippets.  
+A repo to learn and develop widges for notion.     
+
+## Embeddable Widgets(HTMLs)
+
